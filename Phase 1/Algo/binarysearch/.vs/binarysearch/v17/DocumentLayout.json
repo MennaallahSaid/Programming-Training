@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trainee\\source\\repos\\binarysearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D91061A-8D86-4F8C-A11B-E5B1F2899ADA}|binarysearch\\binarysearch.csproj|c:\\users\\trainee\\source\\repos\\binarysearch\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D91061A-8D86-4F8C-A11B-E5B1F2899ADA}|binarysearch\\binarysearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D91061A-8D86-4F8C-A11B-E5B1F2899ADA}|binarysearch\\binarysearch.csproj|c:\\users\\trainee\\source\\repos\\binarysearch\\binarysearch\\rsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D91061A-8D86-4F8C-A11B-E5B1F2899ADA}|binarysearch\\binarysearch.csproj|solutionrelative:binarysearch\\rsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D91061A-8D86-4F8C-A11B-E5B1F2899ADA}|binarysearch\\binarysearch.csproj|c:\\users\\trainee\\source\\repos\\binarysearch\\binarysearch\\searuchmethos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D91061A-8D86-4F8C-A11B-E5B1F2899ADA}|binarysearch\\binarysearch.csproj|solutionrelative:binarysearch\\searuchmethos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rsearch.cs",
+              "DocumentMoniker": "C:\\Users\\trainee\\source\\repos\\binarysearch\\binarysearch\\Rsearch.cs",
+              "RelativeDocumentMoniker": "binarysearch\\Rsearch.cs",
+              "ToolTip": "C:\\Users\\trainee\\source\\repos\\binarysearch\\binarysearch\\Rsearch.cs",
+              "RelativeToolTip": "binarysearch\\Rsearch.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:23:46.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearuchMethos.cs",
+              "DocumentMoniker": "C:\\Users\\trainee\\source\\repos\\binarysearch\\binarysearch\\SearuchMethos.cs",
+              "RelativeDocumentMoniker": "binarysearch\\SearuchMethos.cs",
+              "ToolTip": "C:\\Users\\trainee\\source\\repos\\binarysearch\\binarysearch\\SearuchMethos.cs",
+              "RelativeToolTip": "binarysearch\\SearuchMethos.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:17:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trainee\\source\\repos\\binarysearch\\binarysearch\\Program.cs",
+              "RelativeDocumentMoniker": "binarysearch\\Program.cs",
+              "ToolTip": "C:\\Users\\trainee\\source\\repos\\binarysearch\\binarysearch\\Program.cs",
+              "RelativeToolTip": "binarysearch\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:08:38.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
